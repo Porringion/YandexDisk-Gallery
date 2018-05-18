@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/about"
+        android:id="@+id/MainMenuItemAbout"
+        android:enabled="true"/>
+    <item android:title="@string/MainMenuItemLoginString"
+        android:id="@+id/MainMenuItemLogin"
+        android:enabled="true"/>
+    <item android:title="@string/SettingsString"
+        android:id="@+id/MainMenuItemSettings"
+        android:enabled="true"/>
+    <item android:title="@string/stringClearCache"
+        android:id="@+id/MainMenuItemClearCache"
+        android:enabled="true"/>
+</menu>
